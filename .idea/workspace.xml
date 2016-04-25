@@ -24,13 +24,13 @@
       <file leaf-file-name="digit_recognizer.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/digit_recognizer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="30" column="53" selection-start-line="30" selection-start-column="53" selection-end-line="30" selection-end-column="53" />
+            <state relative-caret-position="630">
+              <caret line="58" column="1" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
               <folding>
                 <element signature="e#0#60#0" expanded="true" />
                 <element signature="e#785#1197#0" expanded="true" />
+                <element signature="e#1263#1535#0" expanded="true" />
                 <element signature="e#1537#1602#0" expanded="true" />
-                <element signature="e#2184#2228#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -54,6 +54,7 @@
       <list>
         <option value="$PROJECT_DIR$/2digitt.py" />
         <option value="$PROJECT_DIR$/digit_recognizer.py" />
+        <option value="$PROJECT_DIR$/svm_output.csv" />
       </list>
     </option>
   </component>
@@ -428,7 +429,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/svm_output.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6870">
+        <state relative-caret-position="-419715">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -436,13 +437,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/digit_recognizer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="30" column="53" selection-start-line="30" selection-start-column="53" selection-end-line="30" selection-end-column="53" />
+        <state relative-caret-position="630">
+          <caret line="58" column="1" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
           <folding>
             <element signature="e#0#60#0" expanded="true" />
             <element signature="e#785#1197#0" expanded="true" />
+            <element signature="e#1263#1535#0" expanded="true" />
             <element signature="e#1537#1602#0" expanded="true" />
-            <element signature="e#2184#2228#0" expanded="true" />
           </folding>
         </state>
       </provider>

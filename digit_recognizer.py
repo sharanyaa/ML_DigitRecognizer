@@ -28,7 +28,7 @@ def RandomForest(X_train, X_test, y_train, y_test, test):
     write_output_file('forest_output.csv', test_pred)
 
 def SVM_classifier(X_train, X_test, y_train, y_test, test):
-    svc = svm.SVC(kernel = "linear", C = 2, gamma=0.1)
+    svc = svm.SVC(kernel = "linear", C = 1, gamma=0.1)
     svc.fit(X_train, y_train)
     y_pred = svc.predict(X_test)
     calc_metrics(y_test, y_pred)
